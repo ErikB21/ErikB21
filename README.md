@@ -1,10 +1,12 @@
+<img src="https://wallpaper.dog/large/20512772.jpg"/>
+
 <div align="center" class="d-flex">
 	<h1 class="">👋 Hi, I’m Erik!</h1>
 	<p>🌱 After the course with <img style="width:30px;" src="https://user-images.githubusercontent.com/103998809/198980290-3a383301-9c6c-462b-87c9-e621fe5914c3.png"/>
  			Boolean careers I became a Jr. Full-Stack Web Developer</p>
 </div>
 
-<h3 align="center">💥Languages and Tools:</h3><hr><br>
+<h3 align="center">💥Tech Stack</h3><hr><br>
 <div class="d-flex" align="center">
 	<img src="https://user-images.githubusercontent.com/103998809/198972625-9b4c5872-ad2d-482f-bd20-2ffe27625297.png"/>
 	<img src="https://user-images.githubusercontent.com/103998809/198979698-db5d9fed-aabf-4641-80c6-eb9898165ac4.png"/>
