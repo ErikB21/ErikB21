@@ -20,11 +20,23 @@
 	<img style="width:50px;" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg"/>
 </div>
 
+<div align="center">
+  <br/>
 
+<p>
+    <a href="https://github.com/ErikB21/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats"  src="https://github-readme-stats.vercel.app/api?username=ErikB21&show_icons=true&theme=transparent"/>
+    </a>
+</p>
+
+
+
+  <a href="https://github.com/ErikB21/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikB21&langs_count=8&count_private=true&layout=compact&theme=transparent&hide_border=true&background=1D0445" /></a>
+  <br/>
+</div>
 
  
 
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikB21&show_icons=true&theme=transparent)
 
  
  
